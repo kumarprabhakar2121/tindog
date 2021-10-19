@@ -1,256 +1,248 @@
-#title{
+#title {
   background-color: #ff4c68;
 }
-.rt{
+.rt {
   background-color: ;
   padding-top: 60px;
 }
-body{
+body {
   font-family: sans-serif;
 }
-.nav-link{
+.nav-link {
   padding: 18px;
-  color:#ffffff;
-  font-color:#ffffff;
+  color: #ffffff;
+  font-color: #ffffff;
 }
-li .nav-item{
-  color:#ffffff;
+li .nav-item {
+  color: #ffffff;
 }
-.abc{
+.abc {
   color: #faf3f3;
   font-size: 1.5rem;
   padding: 7px;
 }
-.abc:hover{
+.abc:hover {
   color: #f5c0c0;
   text-decoration: underline;
 }
-.head{
-font-size: 3rem;
+.head {
+  font-size: 3rem;
 }
-.cf1{
-  padding: 3% 15% 3% ;
+.cf1 {
+  padding: 3% 15% 3%;
   background-color: ;
   position: relative;
   height: 87vh;
-
 }
 
-
-
-.tindog{
-font-family: Ubuntu;
-font-style: normal;
-margin-left: -8px;
-color: white;
+.tindog {
+  font-family: Ubuntu;
+  font-style: normal;
+  margin-left: -8px;
+  color: white;
 }
-.title{
-
+.title {
   margin: 0 0 0 0;
 }
-.cf1{
+.cf1 {
   background-color: ;
   padding-bottom: 200px;
-
 }
-#ab{
-line-height: 1.5;
-font-size: 3.5rem;
-font-family: 'Montserrat', sans-serif;
-font-weight: 800;
-margin-bottom: 30px;
-color: #ffffff;
+#ab {
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  margin-bottom: 30px;
+  color: #ffffff;
 }
 
-.dogg{
-  position:relative;
-  background-color:;
-
-
+.dogg {
+  position: relative;
+  background-color: ;
 }
-.db2{
+.db2 {
   margin-left: 16px;
 }
-.dog{
+.dog {
   margin-top: 30px;
-   transform: rotate(25deg);
-   width: 60%;
+  transform: rotate(25deg);
+  width: 60%;
 }
-#features{
+#features {
   padding: 3% 15%;
   position: relative;
   background-color: white;
 }
 
-.icons{
+.icons {
   margin-top: 120px;
 }
-.cl{
+.cl {
   margin: 80px auto 80px;
-text-align: center;
+  text-align: center;
 }
-.cfi{
-
+.cfi {
   color: #ff4b6fd2;
 }
-.feature-h3{
+.feature-h3 {
   margin-top: 1rem;
   font-weight: bold;
   font-size: 1.5rem;
   font-family: Montserrat;
-
 }
-.three{
+.three {
   background-color: ;
   padding-top: 50px;
 }
-.ic-para{
-  color:#8f8f8f;
+.ic-para {
+  color: #8f8f8f;
 }
-.cfi:hover{
-color:#ff4c68;
+.cfi:hover {
+  color: #ff4c68;
 }
-.testimonials{
+.testimonials {
   background-color: #ff4c68;
   text-align: center;
   color: white;
 }
-h2{
+h2 {
   font-family: Montserrat;
   font-weight: 800;
   line-height: 2;
   text-align: center;
   font-size: 3rem;
 }
-.doggo{
+.doggo {
   border-radius: 100%;
   width: 10%;
 }
-#press{
+#press {
   text-align: center;
   background-color: #ef8172;
   padding: 40px 0 50px;
   font-size: 1rem;
-
 }
-.logos{
+.logos {
   width: 14%;
   margin: 10px 13px 10px;
-
 }
-.slider{
+.slider {
   background-color: #ef8172;
-padding: 3% 15%;
+  padding: 3% 15%;
 }
-.cdeck{
+.cdeck {
   text-align: center;
 }
-.price-card
-{
+.price-card {
   margin: 0;
   text-align: center;
   padding: 30px;
 }
-.price-card-con{
+.price-card-con {
   width: 100%;
   margin: 0 auto;
   padding: 60px 0 70px;
-
 }
-.pr{
-
+.pr {
   font-size: 50px;
   font-weight: 500;
 }
-.pr-text{
-  font-family: 'Montserrat', sans-serif;
+.pr-text {
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
 }
-.pr-title{
+.pr-title {
   text-align: center;
   font-size: 22px;
 }
-.price{
+.price {
   margin-top: 9%;
 }
-.cf{
+.cf {
   background-color: white;
-
 }
 
-.last{
-background-color: #ff1c68;
-padding: 130px 100px ;
-text-align: center;
-color:white;
-font-family: Montserrat;
+.last {
+  background-color: #ff1c68;
+  padding: 130px 100px;
+  text-align: center;
+  color: white;
+  font-family: Montserrat;
 }
-#ab1{
-line-height: 1.5;
-font-size: 3.5rem;
-font-family: 'Montserrat', sans-serif;
-font-weight: 800;
-margin: 0 16%;
-color: #ffffff;
+#ab1 {
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  margin: 0 16%;
+  color: #ffffff;
 }
 
-.db3{
+.db3 {
   margin: 70px 20px 0px;
 }
-.lasti{
+.lasti {
   padding: 10px;
   margin: 10px 23px;
   color: black;
 }
-#footer{
+#footer {
   text-align: center;
   background-color: #ffffff;
   padding: 30px;
   margin: 80px 0;
 }
-@media(min-width:500px) and (max-width:991px) {
-           .cf1 {
-               background-color: #ff1c68;
-               height: max-content ;}
-               #title{
-                 text-align: center;
-               }
-               .doggo{
-                 text-align: center;
-                 margin: 0 auto 0;
-               }
-
-}
-@media (min-width:768px) and (max-width:991px){
-  .dog{
-    transform: rotate(0);
-
+@media (min-width: 500px) and (max-width: 991px) {
+  .cf1 {
+    background-color: #ff1c68;
+    height: max-content;
   }
-  #title{
+  #title {
+    text-align: center;
+  }
+  .doggo {
+    text-align: center;
+    margin: 0 auto 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .dog {
+    transform: rotate(0);
+  }
+  #title {
     text-align: center;
   }
 }
-@media (min-width:575px) and (max-width:767px){
-  .dog{
+@media (min-width: 575px) and (max-width: 767px) {
+  .dog {
     transform: rotate(0);
-
-
   }
-  #title{
+  #title {
     text-align: center;
   }
 }
-@media (max-width:574px){
-  .dog{
+@media (max-width: 574px) {
+  .dog {
     transform: rotate(0);
-
-
-
   }
-  #title{
+  #title {
     text-align: center;
   }
   .cf1 {
-      background-color: #ff1c68;
-      height: 140vh ;}
+    background-color: #ff1c68;
+    height: 140vh;
+  }
+}
+.fa-facebook:hover {
+  color: blue;
+}
+.fa-instagram:hover {
+  color: red;
+}
+.fa-twitter:hover {
+  color: #00c5cc;
+}
+.fa-envelope:hover {
+  color: #ffae00;
 }
